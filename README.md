@@ -10,6 +10,6 @@ Stress-Aware Resilient Neural Training
 
 There are additional images demonstrating how SAL affects the loss landscape in a 3D visualization mode and how it performs under uncertain training regimes.
 
-
+[![Watch the image in orginal size](For_Demo2.jpg)](https://stress-aware-learning.github.io/SAL/trajectory_rotation.mp4)
 
 
