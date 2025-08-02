@@ -12,4 +12,6 @@ There are additional images demonstrating how SAL affects the loss landscape in 
 
 [![Watch the image in orginal size](3D_Loss_Landscape.jpg)](https://stress-aware-learning.github.io/SAL/3D_Loss_Landscape.jpg)
 
+[![Watch the image in orginal size](SAL_In_Uncertain_Training_Regimes.jpg)](https://stress-aware-learning.github.io/SAL/SAL_In_Uncertain_Training_Regimes.jpg)
+
 
