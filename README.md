@@ -6,6 +6,6 @@ Stress-Aware Resilient Neural Training
 
 [![Watch the demo video](For_Demo.jpg)](https://stress-aware-learning.github.io/SAL/)
 
-[![Watch the demo video](For_Demo.jpg)](https://stress-aware-learning.github.io/SAL/)
+[![Watch the demo video](For_Demo2.jpg)](https://stress-aware-learning.github.io/SAL/)
 
 
