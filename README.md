@@ -1,5 +1,8 @@
 # SAL
 Stress-Aware Resilient Neural Training
+This repository includes SAL project details (Code, 3D Visualizations, etc), introduced in our paper titled: "Stress-Aware Resilient Neural Training". Paper link: XX 
+
+Please cite our work (paper) if you use any part of the code, paper, or associated concepts at any stage.
 
 ### 🎥 Demo: SAL
 > 🔗 Click the images below to watch the 3D Visualizations with automatic playback.
