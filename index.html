@@ -3,19 +3,23 @@
 <head>
   <meta charset="UTF-8">
   <title>SAL - Stress-Aware Learning</title>
+  <script>
+    function openInNewTab(url) {
+      window.open(url, '_blank');
+    }
+  </script>
 </head>
 <body style="text-align:center; font-family:sans-serif;">
   <h1>SAL: Stress-Aware Resilient Neural Training</h1>
-  <p>This video demonstrates the smooth loss dynamics in our method:</p>
+  <p>Click below to watch the visualization in a new tab:</p>
 
-  <video width="720" autoplay loop muted controls>
-    <source src="stress_aware_learning_smooth_lossaxis.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="demo_thumbnail.jpg" alt="Open Video" width="300" style="cursor:pointer;"
+       onclick="openInNewTab('video1.html')" />
 
   <br><br>
 
-  <a href="video2.html" target="_blank">▶️ Click here to open another visualization in a new tab</a>
+  <button onclick="openInNewTab('video2.html')">▶️ Open Second Video in New Tab</button>
 </body>
 </html>
+
 
